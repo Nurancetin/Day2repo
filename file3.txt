@@ -1,0 +1,6 @@
+--copy url of any public repo and click clone
+1.now the login button will show up
+2.get your token by following the link
+paste your token in
+now login successful
+go back to previous window and publish you
